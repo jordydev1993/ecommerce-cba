@@ -27,7 +27,7 @@ export default function Home() {
       </MaxWidthWrapper>
 
       <section className="border-t border-gray-200 bg-gray-50">
-        <MaxWidthWrapper className="py-20" children={undefined}></MaxWidthWrapper>
+        <MaxWidthWrapper className="py-20" ></MaxWidthWrapper>
       </section>
     </>
   );
