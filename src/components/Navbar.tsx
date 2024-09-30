@@ -3,7 +3,7 @@ import MaxWidthWrapper from "./MaxWidthWrapper";
 import Link from "next/link";
 import NavItems from "./NavItems";
 import { buttonVariants } from "./ui/button";
-import { Span } from "next/dist/trace";
+// import { Span } from "next/dist/trace";
 import Cart from "./Cart";
 
 const Navbar = () => {
